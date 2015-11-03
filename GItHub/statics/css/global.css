@@ -1,0 +1,11 @@
+* {box-sizing: border-box}
+body{word-wrap: break-word;
+	font:13px/1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol" }
+li{display: block;
+  	list-style: none;}
+a{color: #4078c0;
+  	text-decoration: none;}
+h1{margin-bottom: 15px;
+	margin-top: 15px;
+	line-height: 1.1;}
+p{display: block;}
